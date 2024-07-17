@@ -1,0 +1,14 @@
+H:\Codes\C#\Revision\Functions\Functions\bin\Debug\net8.0\Functions.exe
+H:\Codes\C#\Revision\Functions\Functions\bin\Debug\net8.0\Functions.deps.json
+H:\Codes\C#\Revision\Functions\Functions\bin\Debug\net8.0\Functions.runtimeconfig.json
+H:\Codes\C#\Revision\Functions\Functions\bin\Debug\net8.0\Functions.dll
+H:\Codes\C#\Revision\Functions\Functions\bin\Debug\net8.0\Functions.pdb
+H:\Codes\C#\Revision\Functions\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+H:\Codes\C#\Revision\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+H:\Codes\C#\Revision\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+H:\Codes\C#\Revision\Functions\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+H:\Codes\C#\Revision\Functions\Functions\obj\Debug\net8.0\Functions.dll
+H:\Codes\C#\Revision\Functions\Functions\obj\Debug\net8.0\refint\Functions.dll
+H:\Codes\C#\Revision\Functions\Functions\obj\Debug\net8.0\Functions.pdb
+H:\Codes\C#\Revision\Functions\Functions\obj\Debug\net8.0\Functions.genruntimeconfig.cache
+H:\Codes\C#\Revision\Functions\Functions\obj\Debug\net8.0\ref\Functions.dll
